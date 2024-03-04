@@ -21,4 +21,4 @@ Contribución
 Siéntete libre de contribuir a este proyecto. Puedes abrir un "issue" para reportar errores o sugerir nuevas características, o enviar "pull requests" con tus propias contribuciones.
 
 Licencia
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.![image](https://github.com/omarhernandezrey/card-React.io/assets/103592862/3f944698-ee00-4dd1-ba78-99ee1b03e28d)
